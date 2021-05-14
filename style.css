@@ -28,3 +28,7 @@ panel {
   opacity: 0;
   cursor: default;
 }
+
+.open {
+  pointer-events: none;
+}
